@@ -1,10 +1,3 @@
-/*******************************************************************************
- * Name        : unique.cpp
- * Author      : Aya Salama
- * Date        : 09/20/2023
- * Description : Determining uniqueness of chars with int as bit vector.
- * Pledge      : I pledge my honor that I have abided by the Stevens Honor System.
- ******************************************************************************/
 #include <iostream>
 #include <cctype>
 
